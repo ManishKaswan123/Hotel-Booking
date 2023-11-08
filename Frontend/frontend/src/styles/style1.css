@@ -1,0 +1,44 @@
+.chart123 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+
+.chart4to12 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.column1 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.column2 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.chart4567 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.chart891011 {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+.item2 {
+    margin: 2rem;
+}
+
+.item3 {
+    margin: 2rem;
+}
