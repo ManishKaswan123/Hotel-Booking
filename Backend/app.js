@@ -6,7 +6,7 @@ const app = express();
 
 const DATABASE = "mongodb+srv://manishkaswan88:gJLrwn18LEN6qooi@cluster0.z3dh8rj.mongodb.net/";
 const PORT = 3001;
-const BASE_URL = 'https://654bc8310c1a031ada264a67--luxury-tapioca-81cd63.netlify.app/';
+const BASE_URL = 'http://localhost:3000';
 // const PORT = process.env.PORT;
 
 app.use(cors({
